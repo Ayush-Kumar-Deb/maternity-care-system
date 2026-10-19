@@ -65,6 +65,8 @@ Alerts have a 5-second cooldown so the motor doesn't buzz continuously.
 | Bluetooth transmission | Live data, no loss |
 | 9V battery power | Works without USB |
 
+**Note:** These results are from the original prototype. The code in this repository was rewritten after the original source files were lost.
+
 ## Future scope
 - Body temperature sensor
 - Dedicated Android app with reading history
@@ -73,5 +75,3 @@ Alerts have a 5-second cooldown so the motor doesn't buzz continuously.
 
 ## Team
 *(Ayush Kumar Deb, Sara Johns, CS Rohith, Siri KA)*
-
-NOTE: Results are from the original prototype. The code in this repository was rewritten after the original source files were lost.
