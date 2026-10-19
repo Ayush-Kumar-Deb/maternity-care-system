@@ -16,14 +16,14 @@ Many pregnant women in rural or low-resource areas can't get regular monitoring.
 4. The **HC-05** module streams readings to an Android Bluetooth terminal app.
 
 ## Prototype and results
-![Prototype](Maternity_project_images/prototype.jpg)
+![Prototype](Maternity_project_images/circuit-image.jpg)
 ### Block diagram
 ![Block diagram](Maternity_project_images/block-diagram.png)
 ### Circuit diagram
 ![Circuit diagram](Maternity_project_images/circuit-diagram.png)
 ### Serial monitor output
-![Pulse reading](Maternity_project_images/pulse-reading.png)
-![SpO2 reading](Maternity_project_images/spo2-reading.png)
+![Pulse reading](Maternity_project_images/pulse-reading.jpg)
+![SpO2 reading](Maternity_project_images/spo2-reading.jpg)
 
 ## Hardware
 - Arduino Uno
