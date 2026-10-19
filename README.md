@@ -73,3 +73,5 @@ Alerts have a 5-second cooldown so the motor doesn't buzz continuously.
 
 ## Team
 *(Ayush Kumar Deb, Sara Johns, CS Rohith, Siri KA)*
+
+NOTE: Results are from the original prototype. The code in this repository was rewritten after the original source files were lost.
