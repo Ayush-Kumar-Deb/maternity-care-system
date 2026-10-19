@@ -15,6 +15,16 @@ Many pregnant women in rural or low-resource areas can't get regular monitoring.
 3. If a reading is abnormal, the **coin vibration motor** buzzes and a **relay** can trigger an external alarm.
 4. The **HC-05** module streams readings to an Android Bluetooth terminal app.
 
+## Prototype and results
+![Prototype](images/prototype.jpg)
+### Block diagram
+![Block diagram](images/block-diagram.png)
+### Circuit diagram
+![Circuit diagram](images/circuit-diagram.png)
+### Serial monitor output
+![Pulse reading](images/pulse-reading.png)
+![SpO2 reading](images/spo2-reading.png)
+
 ## Hardware
 - Arduino Uno
 - MAX30102 pulse oximeter sensor (I2C)
